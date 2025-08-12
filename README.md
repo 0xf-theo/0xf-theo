@@ -8,9 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full stack web developer from <b>France</b> 」
-    <br>
-    「 IT for finance student at <b>EFREI Paris</b> 」
+    「 I am a full stack dev 」
     <br>
   </samp>
 </p>
@@ -22,17 +20,6 @@
  <!-- <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-</p>
-
 ## Use To Code
 
 ![Java](https://img.shields.io/badge/Java-e92c2d?style=for-the-badge&labelColor=black&logo=java&logoColor=e92c2d)
